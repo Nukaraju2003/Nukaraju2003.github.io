@@ -7,7 +7,7 @@ let label = 'waiting...';
 let classifier;
 
 function preload() {
-  classifier = ml5.imageClassifier('https://teachablemachine.withgoogle.com/models/J3lC4qfmI/model.json');
+  classifier = ml5.imageClassifier('https://teachablemachine.withgoogle.com/models/MEuY4inUo/model.json');
 }
 
 let snake;
